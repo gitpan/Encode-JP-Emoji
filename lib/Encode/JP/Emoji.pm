@@ -133,7 +133,7 @@ L<http://code.google.com/p/emoji4unicode-ll/>
 
 L<http://groups.google.com/group/emoji4unicode-ll>
 
-=item * RT: CPAN's request tracker
+=item * RT: CPAN request tracker
 
 L<http://rt.cpan.org/NoAuth/Bugs.html?Dist=Encode-JP-Emoji>
 
@@ -166,6 +166,6 @@ use strict;
 use warnings;
 use Encode::JP::Emoji::PP;
 
-our $VERSION = '0.04';
+our $VERSION = '0.05';
 
 1;
